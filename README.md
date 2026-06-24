@@ -1,3 +1,10 @@
 # Sistema de Física em Python
 
-Exemplo de estrutura para um sistema de física em Python com módulos de mecânica, cinemática e dinâmica.
+Este projeto organiza simulações, física e matemática em módulos separados.
+
+Estrutura prevista:
+- `fisica/`
+- `simulacoes/`
+- `matematica/`
+- `graficos/`
+- `dados/`
