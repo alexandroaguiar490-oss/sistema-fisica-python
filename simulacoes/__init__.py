@@ -1,2 +1,2 @@
-from .mru import posicao_mru
-from .mruv import posicao_mruv
+from .mru import gerar_dados
+from .mruv import gerar_dados_mruv
